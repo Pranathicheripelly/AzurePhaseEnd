@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzurePhaseEnd", "AzurePhaseEnd\AzurePhaseEnd.csproj", "{6F63BF0A-449A-454D-90C1-CACBBE156276}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProjectAzure", "TestProjectAzure\TestProjectAzure.csproj", "{D3825D74-275E-4068-96CA-3F1C779A5891}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F63BF0A-449A-454D-90C1-CACBBE156276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F63BF0A-449A-454D-90C1-CACBBE156276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F63BF0A-449A-454D-90C1-CACBBE156276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F63BF0A-449A-454D-90C1-CACBBE156276}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3825D74-275E-4068-96CA-3F1C779A5891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3825D74-275E-4068-96CA-3F1C779A5891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3825D74-275E-4068-96CA-3F1C779A5891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3825D74-275E-4068-96CA-3F1C779A5891}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8718BCFD-2594-45DC-A838-6BE59110FB47}
+	EndGlobalSection
+EndGlobal
